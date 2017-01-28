@@ -1,5 +1,5 @@
 /**
- * Created by noahfranks on 1/19/17.
+ * @author Noah Franks
  */
 
 public class Analyzer {
